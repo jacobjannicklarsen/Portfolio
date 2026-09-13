@@ -1,0 +1,46 @@
+.introduction {
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+        }
+        .JJ {
+            width: 300px;
+            height: auto;
+            
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 18px;
+
+            border: 3px solid black;
+            border-radius: 10px;
+            box-shadow: 5px 5px 15px gray;
+        }
+        body {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background: linear-gradient(to right, white, rgb(206, 206, 206));
+        }
+        .About_me {
+            font-family: 'Times New Roman', Times, serif;
+
+        }
+        .My_plans {
+            font-family: 'Times New Roman', Times, serif;
+
+        }
+        .Website_and_projects {
+            font-family: 'Times New Roman', Times, serif;
+
+        }
+        footer {
+            margin-top: auto;
+            text-align: center;
+            padding: 20px;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        main {
+    padding-left: 10px;
+    }
