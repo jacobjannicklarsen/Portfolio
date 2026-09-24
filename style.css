@@ -100,15 +100,15 @@
                     transform: translateX(5px);
                 }
         .About_me {
-            font-family: 'Times New Roman', Times, serif;
+            font-family: 'source sans pro', sans-serif;
 
         }
         .My_plans {
-            font-family: 'Times New Roman', Times, serif;
+            font-family: 'source sans pro', sans-serif;
 
         }
         .Website_and_projects {
-            font-family: 'Times New Roman', Times, serif;
+            font-family: 'source sans pro', sans-serif;
 
         }
         footer {
@@ -121,5 +121,5 @@
             padding: 7px;
 
             box-sizing: border-box;
-            font-family: 'Times New Roman', Times, serif;
+            font-family: 'tenor sans', sans-serif;
         }
